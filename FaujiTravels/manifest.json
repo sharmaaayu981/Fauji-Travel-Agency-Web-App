@@ -1,8 +1,8 @@
 {
-  "background_color": "#2F5BE7",
+  "background_color": "#FFFFFF",
   "display": "standalone",
   "orientation":"portrait",
-  "theme_color": "#2F5BE7",
+  "theme_color": "#FFFFFF",
   "short_name": "Fauji Travel Agency",
   "name": "Fauji Travel Agency",
   "description": "Fauji Travel Agency Website",
